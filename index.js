@@ -2,11 +2,11 @@ var animal = 'dog';
 
 
 function myAnimal() {
-  return myAnimal;
+  return animal;
 }
 
 function yourAnimal() {
-  return yourAnimal;
+  return animal;
 }
 
 function add2(n) {
