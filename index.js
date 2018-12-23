@@ -5,12 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  if (animal === 'dog') {
-    return 'cat';
-  }
-  if (animal === 'cat') {
-    return 'dog';
-  }
+  return animal;
 }
 
 function add2(n) {
